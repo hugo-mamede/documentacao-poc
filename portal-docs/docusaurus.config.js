@@ -50,7 +50,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/hugo-mamede/documentacao-poc',
+            'https://github.com/hugo-mamede/documentacao-poc/edit/main/portal-docs/',
         },
         blog: {
           showReadingTime: true,
@@ -93,7 +93,7 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Documentação',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
