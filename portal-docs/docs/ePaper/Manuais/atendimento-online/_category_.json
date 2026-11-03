@@ -1,0 +1,10 @@
+
+{
+  "label": "Atendimento Online",
+  "position": 1,
+  "collapsed": false,
+  "link": {
+    "type": "generated-index",
+    "description": "Consultar os procedimentos do Atendimento Online."
+  }
+}

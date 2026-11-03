@@ -1,0 +1,9 @@
+{
+  "label": "Manuais",
+  "position": 1,
+  "collapsed": false,
+  "link": {
+    "type": "generated-index",
+    "description": "Consultar os manuais do ePaper."
+  }
+}
